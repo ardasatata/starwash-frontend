@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+.link{
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  @apply leading-none text-xl;
+}
+
+.main-title{
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-size: 96px;
+  @apply leading-none;
+}
+
+.sub-title{
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-size: 36px;
+  @apply leading-none;
+}
