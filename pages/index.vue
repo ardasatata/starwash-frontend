@@ -18,12 +18,12 @@
     <div class="h-screen w-full bg-home">
       <div class="flex flex-col h-full">
         <div
-          class="flex flex-col mt-56 mx-auto justify-center text-white main-title"
+          class="flex flex-col mt-auto mx-auto justify-center text-white main-title"
         >
           <div class="mx-auto" style="letter-spacing: 0.08em;">STAR</div>
           <div>WASH</div>
         </div>
-        <div class="flex flex-col top-0 mx-auto text-white sub-title">
+        <div class="flex flex-col mb-auto top-0 mx-auto text-white sub-title">
           Cleaning Your Shoes Since 2017
         </div>
       </div>
@@ -56,6 +56,21 @@
             <img style="width: 96px" src="../static/img/about/3.jpg" />
           </div>
         </div>
+      </div>
+    </div>
+    <div class="bg-white h-64 flex flex-col mx-auto">
+      <div
+        class="flex flex-col justify-center items-center text-xs mt-auto mb-6"
+      >
+        <p>
+          COUNTRY : INDONESIA
+        </p>
+        <p>
+          © COPYRIGHT 2019 STAR WASH SHOE, INC
+        </p>
+        <p>
+          ALL RIGHTS RESERVED.
+        </p>
       </div>
     </div>
   </div>
